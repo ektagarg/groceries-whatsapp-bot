@@ -1,2 +1,2 @@
-# Whatsapp BOT helps you prepare your cart
+# Whatsapp BOT to help you prepare your cart
 ### Create using Twilio
