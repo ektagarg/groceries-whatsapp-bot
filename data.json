@@ -1,0 +1,48 @@
+{
+    
+    "list":[
+            "atta","oil","sugar","ghee","onion","bread"
+        ],
+    "atta":{
+        "quantity":["5kg atta", "10kg atta"],
+        "quantity_map":{"5kg atta":"5kg","10kg atta":"10kg"},
+        "5kg":[
+            "Grofers Mother's Choice Sharbati Atta: Rs.171",
+            "Chakki Aata: Rs.133",
+             "Aashivaad Shudh Chakki Whole Wheat Atta: Rs.185",
+             "Aashirvaad Multigrain Atta: Rs.263",
+             "Patanjali Traditional Whole Wheat Atta: Rs.175",
+             "Organic Tattva Wheat Atta: Rs.225"
+            ],
+        "10kg":[
+            "Grofers Mother's Choice Sharbati Atta: Rs.371",
+            "Chakki Aata: Rs.240",
+             "Aashivaad Shudh Chakki Whole Wheat Atta: Rs.342",
+             "Aashirvaad Multigrain Atta: Rs.312",
+             "Fortune Chakki Fresh Atta: Rs.432",
+             "Patanjali Traditional Whole Wheat Atta: Rs.232",
+             "Organic Tattva Wheat Atta: Rs.400"
+            ]
+    },
+    "oil":{
+        "quantity":["500ml oil","1l oil", "5l oil"],
+        "quantity_map":{"500ml oil":"500ml","1l oil":"1l", "5l oil":"5l"},
+        "500ml":["Parachute Pure Coconut Oil"],
+        "1l":[
+            "Dabur Cold Pressed Mustard Oil: Rs.220",
+            "Grofers Mother's Choice Kachi Ghani Mustard Oil: Rs.121",
+            "Grofers Mother's Choice Refind Soyabean Oil: Rs.104",
+            "Fortune Health Refind Oil: Rs.124",
+            "Pansari Kachi Ghani Mustard oil: Rs.138",
+            "Patanjali Mustard Oil(Bottle): Rs.145",
+            "Parachute Pure Coconut Oil: Rs.152"],
+        "5l":[
+            "Fortune Health Refind Oil: Rs.572",
+            "Fortune Health Rice Bran Oil: Rs.629"
+        ]
+    },
+    "total_amount" :["amount","total","sum","value"],
+    "num_items":["many items","num items", "num of items", "no. of items", "no of items", "number of items"],
+    "show_items":["show", "list", "print"],
+    "checkout":["done", "checkout", "place", "place order"]
+}
